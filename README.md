@@ -1,1 +1,1 @@
-# stringy
+stringy
